@@ -5,4 +5,4 @@ During 2016-2018, Bitcoin "believers" keep publicizing the advantages and charac
 The Economics Nobel Prize winner Daniel Kahneman said, "Most investors are not standard financial investors but behavioral investors, and their behavior is not always rational"(Baidu Encyclopedia, academic research para, 4). In terms of legal currency, the value of a currency depends on the peoples' confidence. Bitcoin is circulating globally and without any government's endorsement. This makes Bitcoin less credible.  However, during 2016-2017, bitcoin prices have risen sharply to an incredible level.  From the perspective of finance and economics, such behaviors are already irrational.
  <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/The%20first%20of%202016_The%20last%20of%202017.png" width = 75% height = 75% alt="Picture 1, 2013-2016 Bitcoin Price Trend" /> </div>
-<font color=black size=2>Picture 1, 2013-2016 Bitcoin Price Trend</font>
+<div align="center"> <font color=black size=2>Picture 1, 2013-2016 Bitcoin Price Trend</font> <div/>
