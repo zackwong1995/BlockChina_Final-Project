@@ -14,9 +14,3 @@ From figure 1, significant fluctuations of Bitcoin began in 2013, from the initi
 After the beginning of 2017, Bitcoin began to rise sharply. Figure 2 shows that the dollar per bitcoin rose from about US$800/bitcoin in January to about $19,187/bitcoin on December 16, an about 2300% increase. If using the initial bitcoin price, the increase was more than 147,000%. This abnormal investment fever like the American gold rush in the 1850s,  caused some people to get rich overnight, some people went nothing. 
 Therefore, this essay intends to use the market attention to link the price trend of Bitcoin, and try to explain why the Bitcoin price rose that sharply.
 ## Literature Reviews
-
-
-
-
-
-
