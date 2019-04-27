@@ -7,7 +7,7 @@ The Economics Nobel Prize winner Daniel Kahneman said, "Most investors are not s
 <img src="https://github.com/zackwong1995/zack/blob/master/2013_2016.jpg" width = 100% height = 100% alt="Figure 1" /> </div>
 <div align="center"> <font color=black size=2>Figure 1, 2013-2016 Bitcoin Price Trend</font> <div/>
  <div align="center"> 
-<img src="https://github.com/zackwong1995/zack/blob/master/2017-2018.jpg" width = 100% height = 100% alt="Figure 2" /> </div>
+<img src="https://github.com/zackwong1995/zack/blob/master/2017.jpg" width = 100% height = 100% alt="Figure 2" /> </div>
 <div align="center"> <font color=black size=2>Figure 2, 2017 Bitcoin Price Trend</font> <div/>
 
 <div align="left">
@@ -21,7 +21,8 @@ The timing of Bitcoin emergence was very subtle. From 2008,, many countries econ
 <div/>
 
  <div align="center"> 
-<img src="https://github.com/zackwong1995/zack/blob/master/2013_2016.jpg" width = 100% height = 100% alt="Figure 3" /> 
+<img src="
+https://github.com/zackwong1995/zack/blob/master/2017-2018.png" width = 100% height = 100% alt="Figure 3" /> 
 <font color=black size=1>Figure 3,2003-2009,exchange rate of Zimbabwe dollar to US dollar</font>
 
 <img src="https://github.com/zackwong1995/zack/blob/master/2017-2018.jpg" width = 100% height = 100% alt="Figure 4" /> 
@@ -31,9 +32,3 @@ The timing of Bitcoin emergence was very subtle. From 2008,, many countries econ
 <div align="left">
 A famous example was the Zimbabwean dollar from 2006 to 2009. Figure 3 shows that at that time, $1 USD could be exchanged for 1 trillion Zimbabwe, and Zimbabwean nationals directly abandoned Zimbabwe and chose to use US dollar for trading. It reflects that under the economic recession, people generally feel less confidence in government and central bank. In January 2009, Bitcoin officially introduced on the internet and firstly launched the open source Bitcoin client software. At that time, the market was generally facing economic panic, investment was extremely conservative, and almost no legal currency can gain market trust. Investors are looking for investment tools that can preserve their assets. It can be seen from figure 4 that the price of gold has risen sharply since 2009-2012, increase more than 100%, reflecting the market's efforts in asset value preservation and looking for other alternative hedge assets. However, at this time, bitcoin does not immediately gain market trust and recognition. The market needs time to adapt to a new currency and familiar with its operating principles. However, some investors who are dissatisfied with the government, legal currency, economic policies, etc. began to pay attention to virtual currency, and even began to win the favor of the first batch of "bitcoin believers." The initial bitcoin was only active in the trading activities of the black market and the dark network 8. The famous dark network trading site Silk Road used Bitcoin as a trading tool. According to the Library of Cornell University, as of 2012, Silk Road's average monthly trading volume exceeded $120, all using Bitcoin as the medium of exchange. The transaction content and goods can be purchased in bitcoin from legal goods such as electronic products to illegal transactions such as drugs. It can be seen that while the real economy is halting or even retreating, Bitcoin is beginning to consolidate its trading position as an alternative currency. A famous example was the Zimbabwean dollar from 2006 to 2009. Figure 3 shows that at that time, $1 USD could be exchanged for 1 trillion Zimbabwe, and Zimbabwean nationals directly abandoned Zimbabwe and chose to use US dollar for trading. It reflects that under the economic recession, people generally feel less confidence in government and central bank. In January 2009, Bitcoin officially introduced on the internet and firstly launched the open source Bitcoin client software. At that time, the market was generally facing economic panic, investment was extremely conservative, and almost no legal currency can gain market trust. Investors are looking for investment tools that can preserve their assets. It can be seen from figure 4 that the price of gold has risen sharply since 2009-2012, increase more than 100%, reflecting the market's efforts in value preservation and looking for hedge assets. Some investors who are disappointed with the government began to pay attention to the Bitcoin, and even became the first batch of Bitcoin "believers". At first, Bitcoin only traded in the black market and the dark web. The famous dark web trading website "Silk Road", used Bitcoin as the only trading tool. According to the FBI's criminal complaint(as cited in Hern., 2013, para. 12), the average daily volume of Silk Road trades is 10,000 BTC, trading items include legal and illegal commodities and services.
 It can be seen that the Bitcoin was developed while the economy fell to the recession.
-
-
-
-
-
-
