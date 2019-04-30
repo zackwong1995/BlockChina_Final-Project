@@ -22,28 +22,27 @@ The timing of Bitcoin emergence was very subtle. From 2008,, many countries econ
 
 
  <div align="center"> 
-<img src="https://github.com/zackwong1995/zack/blob/master/ZWD_per_USdollar.png" width = 75% height = 75% alt="Figure 3" /> <div/>
+ <img src="https://github.com/zackwong1995/zack/blob/master/ZWD_per_USdollar.png" width = 75% height = 75% alt="Figure 3" />
+ 
+ <font color=black size=0.5>Figure 3,2003-2009,exchange rate of Zimbabwe dollar to US dollar</font>
+ <div/>
+ 
+ <div align="center"> 
+ <img src="https://github.com/zackwong1995/zack/blob/master/goldprices.png" width = 75% height = 75% alt="Figure 4" />
 
- <div align="center"> <font color=black size=0.5>Figure 3,2003-2009,exchange rate of Zimbabwe dollar to US dollar</font> <div/>
-
- <div align="center"> <img src="https://github.com/zackwong1995/zack/blob/master/goldprices.png" width = 75% height = 75% alt="Figure 4" /> <div/>
-
- <div align="center"> <font color=black size=0.5>Figure 4, 2008-2018, Gold Price in USD/oz</font> 
- <div/> <div/>
-
+<font color=black size=0.5>Figure 4, 2008-2018, Gold Price in USD/oz</font> 
+<div/>
 
 <div align="left">
 A famous example was the Zimbabwean dollar from 2006 to 2009. Figure 3 shows that at that time, $1 USD could be exchanged for 1 trillion Zimbabwe, and Zimbabwean nationals directly abandoned Zimbabwe and chose to use US dollar for trading. It reflects that under the economic recession, people generally feel less confidence in government and central bank. In January 2009, Bitcoin officially introduced on the internet and firstly launched the open source Bitcoin client software. At that time, the market was generally facing economic panic, investment was extremely conservative, and almost no legal currency can gain market trust. Investors are looking for investment tools that can preserve their assets. It can be seen from figure 4 that the price of gold has risen sharply since 2009-2012, increase more than 100%, reflecting the market's efforts in asset value preservation and looking for other alternative hedge assets. However, at this time, bitcoin does not immediately gain market trust and recognition. The market needs time to adapt to a new currency and familiar with its operating principles. However, some investors who are dissatisfied with the government, legal currency, economic policies, etc. began to pay attention to virtual currency, and even began to win the favor of the first batch of "bitcoin believers." The initial bitcoin was only active in the trading activities of the black market and the dark network 8. The famous dark network trading site Silk Road used Bitcoin as a trading tool. According to the Library of Cornell University, as of 2012, Silk Road's average monthly trading volume exceeded $120, all using Bitcoin as the medium of exchange. The transaction content and goods can be purchased in bitcoin from legal goods such as electronic products to illegal transactions such as drugs. It can be seen that while the real economy is halting or even retreating, Bitcoin is beginning to consolidate its trading position as an alternative currency. A famous example was the Zimbabwean dollar from 2006 to 2009. Figure 3 shows that at that time, $1 USD could be exchanged for 1 trillion Zimbabwe, and Zimbabwean nationals directly abandoned Zimbabwe and chose to use US dollar for trading. It reflects that under the economic recession, people generally feel less confidence in government and central bank. In January 2009, Bitcoin officially introduced on the internet and firstly launched the open source Bitcoin client software. At that time, the market was generally facing economic panic, investment was extremely conservative, and almost no legal currency can gain market trust. Investors are looking for investment tools that can preserve their assets. It can be seen from figure 4 that the price of gold has risen sharply since 2009-2012, increase more than 100%, reflecting the market's efforts in value preservation and looking for hedge assets. Some investors who are disappointed with the government began to pay attention to the Bitcoin, and even became the first batch of Bitcoin "believers". At first, Bitcoin only traded in the black market and the dark web. The famous dark web trading website "Silk Road", used Bitcoin as the only trading tool. According to the FBI's criminal complaint(as cited in Hern., 2013, para. 12), the average daily volume of Silk Road trades is 10,000 BTC, trading items include legal and illegal commodities and services.
 It can be seen that the Bitcoin was developed while the economy fell to the recession.
 <div/>
 
- ### Trading Volume on each Exchange and in Different Currencies
+ ### 2. Trading Volume on each Exchange and in Different Currencies
  <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/volume1.png" width = 100% height = 100% alt="Figure 5" /> 
  
  <font color=black size=1>Figure 5,2016-Oct, 2017, Bitcoin trading volume on each exchange</font>
-
-
 
 <img src="https://github.com/zackwong1995/zack/blob/master/volume2.png" width = 100% height = 100% alt="Figure 6" /> 
 <font color=black size=1>Figure 6, 2013-2017, Bitcoin Trading Volume in Different Currencies</font> 
@@ -53,11 +52,25 @@ It can be seen that the Bitcoin was developed while the economy fell to the rece
 From the trading volume of Bitcoin over these years, one can conclude that the main market for Bitcoin was China. Moreover, from the data perspective, trading volume was only concentrated in between mid-2015 to the mid-2016 which shows that Chinese investors were more likely to trade in the short term, rather than seeing Bitcoin as a long-term asset. Furthermore, the high price was greatly related to the large inflow of hot money during 2016-2017 which pushed up the market price. This did not change the intrinsic value of Bitcoin( Progress in Bitcoin technology).
 
 ## Methodology
-Firstly, in order to link the market attention and Bitcoin prices, this essay uses Baidu Index: a statistical tool based on the search volume of netizens which using keywords as statistical objects and calculate the weighting of search frequency of various keywords in Baidu web search, to extract the search volume. Moreover, this comparison of Bitcoin price and market attention would also use Media Index: the number of keywords related to the news reported by major Internet media. Media index is independent of the Search Index.
+In order to link the market attention and Bitcoin prices, this essay uses Google Trend: a statistical tool based on the search volume of netizens which using keywords as statistical objects and calculate the weighting of search frequency of various keywords in Google web search, to extract the search volume as an index used for regression. 
+Used the search index to do a regress with the Bitcoin closing price, to see whether the search index has a correlation with the closing price. Moreover, this essay would provide another search index regression with the trading volume in order to test whether the search index has a correlation with the trading volume in USD.
+This regression can give a brief explanation about how the market attention affected the price and trading volume.
 
-Secondly, because of the Chinese market perspective, this essay chooses the Baidu Index instead of Google Trend. However, since  Bitcoin can trade in the global market in several ways, the price of Bitcoin still uses the average price of Bitcoin on major exchanges.
+## Data Selection
+Firstly,because of the global characteristics of Bitcoin price, this essay chooses the Google Trend Index. The Bitcoin price uses the average price index of Bitcoin on major exchanges. The search index is the weighted average( from Google Trend) search volume for the keyword: Bitcoin.
 
-Thirdly, as 2016 was the first big increase in Bitcoin while China's overall economy began to slow down in early 2018. Therefore, the time period is selected from Jan 2016 to Oct 2017 in order to make the comparison in more similar conditions.
+Secondly, as 2016 was the first big increase in Bitcoin. The price also reaches its highest record of 19000/Bitcoin at the end of 2017. Therefore, the time period is selected from Jan 2016 to Dec 2017 in order to make the analysis in more similar and effective conditions.
 
+<div/>
+
+## Simple Comparsion
+ <div align="center"> 
+<img src=" 
+https://github.com/zackwong1995/zack/blob/master/simple_comparasion2.png" width = 100% height = 100% alt="Figure 7" /> 
+ 
+ <font color=black size=1>Figure 7,Simple comparasion of Closing Price and Search Index</font>
+
+<div/>
+ <div align="left">
 
 
