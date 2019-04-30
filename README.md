@@ -45,7 +45,9 @@ It can be seen that the Bitcoin was developed while the economy fell to the rece
 <img src="https://github.com/zackwong1995/zack/blob/master/volume1.png" width = 100% height = 100% alt="Figure 5" /> 
  
  <font color=black size=1>Figure 5,2016-Oct, 2017, Bitcoin trading volume on each exchange</font>
+
 <br/>
+
 <img src="https://github.com/zackwong1995/zack/blob/master/volume2.png" width = 100% height = 100% alt="Figure 6" /> 
 <font color=black size=1>Figure 6, 2013-2017, Bitcoin Trading Volume in Different Currencies</font> 
 <div/>
@@ -64,31 +66,103 @@ Firstly,because of the global characteristics of Bitcoin price, this essay choos
 
 Secondly, as 2016 was the first big increase in Bitcoin. The price also reaches its highest record of 19000/Bitcoin at the end of 2017. Therefore, the time period is selected from Jan 2016 to Dec 2017 in order to make the analysis in more similar and effective conditions.
 
+Thirdly, the analysis is separated into three sub-periods. The first sub-period is from the beginning of 2016 to the end of 2016 since Google Trend only provides weekly index data for this period. Therefore, the price also uses weekly price during this period. The second and third sub-period is from January 2017 to June 2017 and from July 2017 to December 2017. Both using daily index data and price data during these periods.
+
 <div/>
 
 ## Simple Comparsion
  <div align="center"> 
-<img src="https://github.com/zackwong1995/zack/blob/master/simple_comparasion2.png" width = 100% height = 100% alt="Figure 7" /> 
+<img src="https://github.com/zackwong1995/zack/blob/master/simple_comparasion_2016.png" width = 100% height = 100% alt="Figure 7" /> 
  
- <font color=black size=1>Figure 7,Simple comparasion of Closing Price and Search Index</font>
+ <font color=black size=1>Figure 7,Simple comparasion of Closing Price and Search Index in Jan 2016- Dec 2016</font>
+
+<img src="https://github.com/zackwong1995/zack/blob/master/simple_comparasion_2017-01-06.png" width = 100% height = 100% alt="Figure 8" /> 
+ 
+ <font color=black size=1>Figure 8,Simple comparasion of Closing Price and Search Index in Jan 2017- June 2017</font>
+
+<img src="https://github.com/zackwong1995/zack/blob/master/simple_comparasion_2017-07-12.png" width = 100% height = 100% alt="Figure 9" /> 
+ 
+ <font color=black size=1>Figure 9,Simple comparasion of Closing Price and Search Index in July 2017- Dec 2017</font>
+
+
 
 <div/>
  <div align="left">
-<br/>
-As can be seen from Figure 7, both price and trading volume has a significant increase while the search index increasing.
 
+<br/>
+As can be seen from Figure 7, the Bitcoin price increased while the search index increased in June and at the end of the year. But during this period, the effect was not so strong. Since the Bitcoin price has greatly increased in 2017, the absolute value of search index during 2017 is relatively low to the price. Therefore, the search index during Jan 2017-June 2017 was adjusted( multiply by 10) in order to show a more clear trend shifts. And the index during July 2017- Dec 2017 was multiply by 100. Then from figure8, on March 2017 and May 2017, both search index show the same direction with the price trend. The effect here was stronger than during 2016. After that, figure 9 shows an almost completely same movement between the Bitcoin price trend and the adjusted search index. 
+
+Here can only observe the move direction of these factors, not representing the correlation relationship.
+
+
+## Regression Analysis
+### Sub-Period: Jan 2016- Dec 2016
+Table 1 shows the regression of Bitcoin price and search index. The p-value of the index is close to 0, indicating that the effect of index on price is very significant. Search index can be a good explanation for the price increase. Notice that the coefficient of search index is relatively lower than the coefficient of the intercept. Since the search index was a weighted average volume of searching keyword, this lower coefficient is not important to the result. If we change the weight of this keyword, the coefficient could be significantly improved.
 <div/>
 
-## Result Analysis
- <div align="center"> 
+<br/>
+<div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/regression_price_index.png" width = 100% height = 100% alt="Table 1" /> 
  
- <font color=black size=1>Table 1,Linear regression of price and search index </font>
+ <font color=black size=1>Table 1,Linear regression of price and search index in Jan 2016- Dec 2016</font>
 
 <div/>
+
+
+### Sub-Period: Jan 2017- June 2017
  <div align="left">
+ 
+In the regression results from January to June 2017, the p-value is very close to 0 and the x1 coefficient is 34.28615. Explain that for every 1 unit increase in the index, the price will rise by $34.28615. Since this index was weighted averaged by Google, the actual bitcoin search volume is much larger than this value. Therefore, if the search volume is converted into an absolute value, the coefficient will show a more intuitive result. However, this regression can still conclude that the search index has a significant impact on the Bitcoin price.
+<div/>
+
 <br/>
-Table 1 shows the regression of Bitcoin price and search index. The p-value of the index is close to 0, indicating that the effect of index on price is very significant. Search index can be a good explanation for the price increase. Notice that the coefficient of search index is relatively lower than the coefficient of the intercept. Since the search index was a weighted average volume of searching keyword, this lower coefficient is not important to the result. If we change the weight of this keyword, the coefficient could be significantly improved.
+<div align="center"> 
+<img src="https://github.com/zackwong1995/zack/blob/master/regression_price_index_2017-01_06.png" width = 100% height = 100% alt="Table 2" /> 
+ 
+ <font color=black size=1>Table 2,Linear regression of price and search index in Jan 2017- June 2017 </font>
 
 <div/>
 
+
+
+### Sub-Period: July 2017- Dec 2017
+ <div align="left">
+
+From July 2017 to December 2017, the search index also has a significant impact on price. During this period, prices rose sharply, and bitcoin prices reach its highest record. Therefore, the x1 coefficient during this period is also larger, about 227.
+
+<div/>
+
+<br/>
+<div align="center"> 
+<img src="https://github.com/zackwong1995/zack/blob/master/regression_price_index_2017-07_12.png" width = 100% height = 100% alt="Table 3" /> 
+ 
+ <font color=black size=1>Table 3,Linear regression of price and search index in July 2017- Dec 2017 </font>
+
+<div/>
+
+<div align="left">
+
+
+### Search Index Line Fit Plot in Three Sub-Period
+
+<div align="center"> 
+<img src="https://github.com/zackwong1995/zack/blob/master/Plot_2016.png" width = 100% height = 100% alt="Figure 10" /> 
+ 
+ <font color=black size=1>Figure 10,Line Fit Plot in Year 2016 </font>
+ 
+ <br/>
+ 
+ <img src="https://github.com/zackwong1995/zack/blob/master/Plot_2017-01-06.png" width = 100% height = 100% alt="Figure 11" /> 
+ 
+ <font color=black size=1>Figure 11,Line Fit Plot in Jan 2017- June 2017 </font>
+
+ <br/>
+ 
+ <img src="https://github.com/zackwong1995/zack/blob/master/Plot_2017-07-12.png" width = 100% height = 100% alt="Figure 12" /> 
+ 
+ <font color=black size=1>Figure 12,Line Fit Plot in July 2017- Dec 2017 </font>
+ 
+ <div/>
+ 
+ 
+ 
