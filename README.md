@@ -26,7 +26,7 @@ The timing of Bitcoin emergence was very subtle. From 2008,, many countries econ
  <div align="center"> 
  <img src="https://github.com/zackwong1995/zack/blob/master/ZWD_per_USdollar.png" width = 75% height = 75% alt="Figure 3" />
  
- <font color=black size=0.5>Figure 3,2003-2009,exchange rate of Zimbabwe dollar to US dollar</font>
+ <font color=black size=0.5>Figure 3, 2003-2009, Exchange rate of Zimbabwe dollar to US dollar</font>
  <div/>
  <br/>
  <div align="center"> 
@@ -44,7 +44,7 @@ It can be seen that the Bitcoin was developed while the economy fell to the rece
  <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/volume1.png" width = 100% height = 100% alt="Figure 5" /> 
  
- <font color=black size=1>Figure 5,2016-Oct, 2017, Bitcoin trading volume on each exchange</font>
+ <font color=black size=1>Figure 5, 2016-Oct, 2017, Bitcoin trading volume on each exchange</font>
 
 <br/>
 
@@ -74,7 +74,7 @@ Thirdly, the analysis is separated into three sub-periods. The first sub-period 
  <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/simple_comparasion_2016.png" width = 100% height = 100% alt="Figure 7" /> 
  
- <font color=black size=1>Figure 7,Simple comparasion of Closing Price and Search Index in Jan 2016- Dec 2016</font>
+ <font color=black size=1>Figure 7, Simple comparasion of Closing Price and Search Index in Jan 2016- Dec 2016</font>
 
 <img src="https://github.com/zackwong1995/zack/blob/master/simple_comparasion_2017-01-06.png" width = 100% height = 100% alt="Figure 8" /> 
  
@@ -104,7 +104,7 @@ Table 1 shows the regression of Bitcoin price and search index. The p-value of t
 <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/regression_price_index.png" width = 100% height = 100% alt="Table 1" /> 
  
- <font color=black size=1>Table 1,Linear regression of price and search index in Jan 2016- Dec 2016</font>
+ <font color=black size=1>Table 1, Linear regression of price and search index in Jan 2016- Dec 2016</font>
 <div/>
 
  <div align="left">
@@ -118,7 +118,7 @@ In the regression results from January to June 2017, the p-value is very close t
 <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/regression_price_index_2017-01_06.png" width = 100% height = 100% alt="Table 2" /> 
  
- <font color=black size=1>Table 2,Linear regression of price and search index in Jan 2017- June 2017 </font>
+ <font color=black size=1>Table 2, Linear regression of price and search index in Jan 2017- June 2017 </font>
 
 <div/>
 
@@ -132,7 +132,7 @@ From July 2017 to December 2017, the search index also has a significant impact 
 <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/regression_price_index_2017-07_12.png" width = 100% height = 100% alt="Table 3" /> 
  
- <font color=black size=1>Table 3,Linear regression of price and search index in July 2017- Dec 2017 </font>
+ <font color=black size=1>Table 3, Linear regression of price and search index in July 2017- Dec 2017 </font>
 
 <div/>
 
@@ -140,25 +140,29 @@ From July 2017 to December 2017, the search index also has a significant impact 
 
 
 ### Search Index Line Fit Plot in Three Sub-Period
+Here shows the Linear Regression Plot in three different time period.
 
 <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/Plot_2016.png" width = 100% height = 100% alt="Figure 10" /> 
  
- <font color=black size=1>Figure 10,Line Fit Plot in Year 2016 </font>
+ <font color=black size=1>Figure 10, Line Fit Plot in Year 2016 </font>
  
  <br/>
  
  <img src="https://github.com/zackwong1995/zack/blob/master/Plot_2017-01-06.png" width = 100% height = 100% alt="Figure 11" /> 
  
- <font color=black size=1>Figure 11,Line Fit Plot in Jan 2017- June 2017 </font>
+ <font color=black size=1>Figure 11, Line Fit Plot in Jan 2017- June 2017 </font>
 
  <br/>
  
  <img src="https://github.com/zackwong1995/zack/blob/master/Plot_2017-07-12.png" width = 100% height = 100% alt="Figure 12" /> 
  
- <font color=black size=1>Figure 12,Line Fit Plot in July 2017- Dec 2017 </font>
+ <font color=black size=1>Figure 12, Line Fit Plot in July 2017- Dec 2017 </font>
  
  <div/>
  
+ <div align="left">
  
- 
+ ## Conclusion
+
+From the linear regression of three periods which show relatively obvious price increase, the result comes up with a simple relationship between Google search volume( representing the market attention of Bitcoin) and Bitcoin price. The results show that the search volume of the keyword: Bitcoin, is proportional to the Bitcoin price. Although linear regression only reflects correlation, one possible explanation is that as the market vigorously touted Bitcoin during 2016 to 2017, the rapid development of Bitcoin-related websites and ICO programs( Initial Coin Offering) led to the market exploded and increased investor's confidence, hot money started to flow into the market. The positive correlation between market attention and Bitcoin price explains the increase in Bitcoin prices: mainly because of the inflow of hot money which caused by rising public attention. This model is not sustainable and will eventually burst at a critical point. In November 2017, Bitcoin began to fall sharply, from about $19000/Bitcoin in November 2017 to now about $5,000/bitcoin.
