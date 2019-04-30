@@ -105,14 +105,13 @@ Table 1 shows the regression of Bitcoin price and search index. The p-value of t
 <img src="https://github.com/zackwong1995/zack/blob/master/regression_price_index.png" width = 100% height = 100% alt="Table 1" /> 
  
  <font color=black size=1>Table 1,Linear regression of price and search index in Jan 2016- Dec 2016</font>
-
 <div/>
 
-
-### Sub-Period: Jan 2017- June 2017
  <div align="left">
  
+### Sub-Period: Jan 2017- June 2017
 In the regression results from January to June 2017, the p-value is very close to 0 and the x1 coefficient is 34.28615. Explain that for every 1 unit increase in the index, the price will rise by $34.28615. Since this index was weighted averaged by Google, the actual bitcoin search volume is much larger than this value. Therefore, if the search volume is converted into an absolute value, the coefficient will show a more intuitive result. However, this regression can still conclude that the search index has a significant impact on the Bitcoin price.
+
 <div/>
 
 <br/>
@@ -123,13 +122,10 @@ In the regression results from January to June 2017, the p-value is very close t
 
 <div/>
 
-
-
-### Sub-Period: July 2017- Dec 2017
  <div align="left">
 
+### Sub-Period: July 2017- Dec 2017
 From July 2017 to December 2017, the search index also has a significant impact on price. During this period, prices rose sharply, and bitcoin prices reach its highest record. Therefore, the x1 coefficient during this period is also larger, about 227.
-
 <div/>
 
 <br/>
