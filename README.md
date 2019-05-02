@@ -25,19 +25,15 @@ The timing of Bitcoin emergence was very subtle. From 2008, many country's econo
 <br/>
 <div/>
 
- <div align="center"> 
- <img src="https://github.com/zackwong1995/zack/blob/master/ZWD_per_USdollar.png" width = 75% height = 75% alt="Figure 3" />
- <font color=black size=1>Figure 3, 2003-2009, Exchange rate of Zimbabwe dollar to US dollar</font>
- <font color=black size=1>Source: Wikipedia </font>
+<div align="center"> <img src="https://github.com/zackwong1995/zack/blob/master/ZWD_per_USdollar.png" width = 75% height = 75% alt="Figure 3" /> <div/>
+<div align="center"> <font color=black size=1>Figure 3, 2003-2009, Exchange rate of Zimbabwe dollar to US dollar</font> <div/>
+<div align="center"> <font color=black size=1>Source: Wikipedia </font> <div/>
 
-<div/>
  <br/>
- <div align="center"> 
- <img src="https://github.com/zackwong1995/zack/blob/master/goldprices.png" width = 75% height = 75% alt="Figure 4" />
- <font color=black size=1>Figure 4, 2008-2018, Gold Price in USD/oz</font> 
- <font color=black size=1>Source: Trading View</font> 
+<div align="center"> <img src="https://github.com/zackwong1995/zack/blob/master/goldprices.png" width = 75% height = 75% alt="Figure 4" /> <div/>
+<div align="center"> <font color=black size=1>Figure 4, 2008-2018, Gold Price in USD/oz</font> <div/>
+<div align="center"> <font color=black size=1>Source: Trading View</font> <div/>
 <br/>
-<div/>
 
 <div align="left">
  A famous example was the Zimbabwean dollar from 2006 to 2009. Figure 3 shows that at that time, $1 USD could be exchanged for 1 trillion Zimbabwean dollars, and Zimbabwean nationals directly abandoned Zimbabwe and chose to use the US dollar for trading. It reflects that under the economic recession, people generally feel less confidence in government and central bank. In January 2009, Bitcoin officially introduced on the internet and firstly launched the open source Bitcoin client software. At that time, the market was generally facing economic panic, investment was extremely conservative, and almost no legal currency can gain market trust. Investors are looking for investment tools that can preserve their assets. It can be seen from figure 4 that the price of gold has risen sharply since 2009-2012, increase more than 100%, reflecting the market's efforts in value preservation and looking for hedging tools. Some investors who are disappointed with the government began to pay attention to the Bitcoin, and even became the first batch of Bitcoin "believers". At first, Bitcoin only traded in the black market and used in the dark web. The famous dark web trading website "Silk Road", used Bitcoin as the only trading currency. According to the FBI's criminal complaint(as cited in Hern., 2013, para. 12), the average daily volume of Silk Road trades is 10,000 BTC, trading items include legal and illegal commodities and services.
@@ -45,21 +41,15 @@ It can be seen that the Bitcoin was developed while the economy fell to the rece
 <div/>
 
  ### 2. Trading Volume on each Exchange and in Different Currencies
- <div align="center"> 
-<img src="https://github.com/zackwong1995/zack/blob/master/volume1.png" width = 100% height = 100% alt="Figure 5" /> 
- 
-<font color=black size=1>Figure 5, 2016-Oct, 2017, Bitcoin trading volume on each exchange</font>
-
-<font color=black size=1>Source: Bitcoinity.org</font>
+<div align="center"> <img src="https://github.com/zackwong1995/zack/blob/master/volume1.png" width = 100% height = 100% alt="Figure 5" /> <div/>
+<div align="center"> <font color=black size=1>Figure 5, 2016-Oct, 2017, Bitcoin trading volume on each exchange</font> <div/>
+<div align="center"> <font color=black size=1>Source: Bitcoinity.org</font> <div/>
 <br/>
 
-<img src="https://github.com/zackwong1995/zack/blob/master/volume2.png" width = 100% height = 100% alt="Figure 6" /> 
-
-<font color=black size=1>Figure 6, 2013-2017, Bitcoin Trading Volume in Different Currencies</font> 
-
-<font color=black size=1>Source: Bitcoinity.org</font>
+<div align="center"><img src="https://github.com/zackwong1995/zack/blob/master/volume2.png" width = 100% height = 100% alt="Figure 6" /> <div/>
+<div align="center"><font color=black size=1>Figure 6, 2013-2017, Bitcoin Trading Volume in Different Currencies</font> <div/>
+<div align="center"><font color=black size=1>Source: Bitcoinity.org</font> <div/>
 <br/>
-<div/>
 
  <div align="left">
 Figure 5 shows Bitcoin's trading volume in the 2006- Oct 2007 on each Chinese exchange. The transaction mostly concentrated on Huobi, BTC China, OKCOIN, account for more than 90% of the total. Figure 6 shows Bitcoin's trading volume in different countries during 2006-Oct, 2017. The trading volume in Chinese RMB was the largest, accounting for more than 90% of the total volume.
