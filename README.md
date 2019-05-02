@@ -49,11 +49,14 @@ It can be seen that the Bitcoin was developed while the economy fell to the rece
 <img src="https://github.com/zackwong1995/zack/blob/master/volume1.png" width = 100% height = 100% alt="Figure 5" /> 
  
 <font color=black size=1>Figure 5, 2016-Oct, 2017, Bitcoin trading volume on each exchange</font>
+
 <font color=black size=1>Source: Bitcoinity.org</font>
 <br/>
 
 <img src="https://github.com/zackwong1995/zack/blob/master/volume2.png" width = 100% height = 100% alt="Figure 6" /> 
+
 <font color=black size=1>Figure 6, 2013-2017, Bitcoin Trading Volume in Different Currencies</font> 
+
 <font color=black size=1>Source: Bitcoinity.org</font>
 <br/>
 <div/>
