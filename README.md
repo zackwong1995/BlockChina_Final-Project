@@ -7,10 +7,12 @@ The Economics Nobel Prize winner Daniel Kahneman said, "Most investors are not s
 <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/2013_2016.jpg" width = 100% height = 100% alt="Figure 1" /> </div>
 <div align="center"> <font color=black size=2>Figure 1, 2013-2016 Bitcoin Price Trend</font> <div/>
+<div align="center"> <font color=black size=2>Sources: Trading View</font> <div/>
 <br/>
  <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/2017.jpg" width = 100% height = 100% alt="Figure 2" /> </div>
 <div align="center"> <font color=black size=2>Figure 2, 2017 Bitcoin Price Trend</font> <div/>
+<div align="center"> <font color=black size=2>Sources: Trading View</font> <div/>
 <br/>
 <div align="left">
 Figure 1 shows the significant fluctuations of Bitcoin began in 2013, from the initial $13.36/Bitcoin in January 2013 to the higher of $1,124/Bitcoin on November 29, 2013. Then, due to the public announcement issued by the five Ministries and Commissions of the People's Bank of China on December 5, 2013, state that Bitcoin "does not have monetary attributes such as legal and mandatory, and is not a real currency", "all financial and payment institution must not carry out the business related to Bitcoin", "strengthen the management of the Bitcoin network" ("Notice on preventing Bitcoin risk", Yinfa [2013] No. 289), and triggered a ferocious sell-off. On December 16 of the same year, China's central bank gathered more than a dozen third-party payment platforms, require them not to make any form of clearing and payment services for Bitcoin. The market has doubts and panic about the value and credibility of Bitcoin. As a result, another sell-off reappeared, causing prices to fall sharply to around $530/Bitcoin at the end of 2013. Until mid-2016, Bitcoin prices continued to fluctuate around US$700/Bitcoin.
@@ -27,12 +29,15 @@ The timing of Bitcoin emergence was very subtle. From 2008, many country's econo
  <img src="https://github.com/zackwong1995/zack/blob/master/ZWD_per_USdollar.png" width = 75% height = 75% alt="Figure 3" />
  
  <font color=black size=0.5>Figure 3, 2003-2009, Exchange rate of Zimbabwe dollar to US dollar</font>
- <div/>
+<font color=black size=0.5>Source: Wikipedia </font>
+
+<div/>
  <br/>
  <div align="center"> 
  <img src="https://github.com/zackwong1995/zack/blob/master/goldprices.png" width = 75% height = 75% alt="Figure 4" />
 
 <font color=black size=0.5>Figure 4, 2008-2018, Gold Price in USD/oz</font> 
+<font color=black size=0.5>Source: Trading View</font> 
 <div/>
 <br/>
 <div align="left">
@@ -45,11 +50,12 @@ It can be seen that the Bitcoin was developed while the economy fell to the rece
 <img src="https://github.com/zackwong1995/zack/blob/master/volume1.png" width = 100% height = 100% alt="Figure 5" /> 
  
  <font color=black size=1>Figure 5, 2016-Oct, 2017, Bitcoin trading volume on each exchange</font>
-
+ <font color=black size=1>Source: Bitcoinity.org</font>
 <br/>
 
 <img src="https://github.com/zackwong1995/zack/blob/master/volume2.png" width = 100% height = 100% alt="Figure 6" /> 
 <font color=black size=1>Figure 6, 2013-2017, Bitcoin Trading Volume in Different Currencies</font> 
+ <font color=black size=1>Source: Bitcoinity.org</font>
 <div/>
 <br/>
  <div align="left">
@@ -166,3 +172,18 @@ Here shows the Linear Regression Plot which shows the correlation between Bitcoi
  ## Conclusion
 
 From the linear regression of the three time periods, the result comes up with a simple relationship between Google search volume( representing the market attention of Bitcoin) and Bitcoin price. The results show that the search volume of the keyword: Bitcoin, is proportional to the Bitcoin price. Although linear regression only reflects correlation, one possible explanation is that as the market vigorously touted Bitcoin during 2016 to 2017, the rapid development of Bitcoin-related websites and ICO programs( Initial Coin Offering) led to the market exploded and increased investor's confidence, further led to the inflow of hot money. The positive correlation between market attention and Bitcoin price explain the increase in Bitcoin prices: mainly because of the inflow of hot money which caused by rising public attention. This kind of model cannot sustainable and will eventually burst at a critical point. In November 2017, Bitcoin began to fall sharply, from about $19000/Bitcoin in November 2017 to now about $5,000/bitcoin.
+
+## Reference
+1. Daniel Kahneman. *Baidu Encyclopedia*, Retrieved from: https://baike.baidu.com/item/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E5%8D%A1%E5%86%85%E6%9B%BC/2742278?fr=aladdin
+2. Bitcoin Price History. *Trading View*, Retrieved from: https://www.tradingview.com/chart/?symbol=BITSTAMP:BTCUSD#
+3. Ba Bi Te, (2013). zhōng guó rén mín yín háng děng wǔ bù wěi fā bù 《guān yú fáng fàn bǐ tè bì fēng xiǎn de tōng zhī 》, Retrieved from: https://www.8btc.com/article/26631
+4. File:ZWD-USD 2003-.png.(n.d.) Retrieved May 1, 2019 from https://commons.wikimedia.org/wiki/File:ZWD-USD_2003-.png
+5. 2008-2016 Gold Price in USD/OZ. *Trading View*, Retrieved from: https://www.tradingview.com/chart/?symbol=TVC:GOLD#
+6. Hern, A.(2013, October 3). Bitcoin price plummets after Silk Road closure. *The Guardian*, Retrieved from: https://www.theguardian.com/technology/2013/oct/03/bitcoin-price-silk-road-ulbricht-value
+7. Bitcoin Trading Volume on each exchanges. *Bitcoinity.org*, Retrieved from: http://data.bitcoinity.org/markets/volume/5y?c=e&t=b
+8. Bitcoin Trading Volume in Different Currencies. *Bitcoinity.org*, Retrieved from: http://data.bitcoinity.org/markets/volume/5y?c=e&t=b
+9. Google Trends. Retrieved from: https://trends.google.com/trends/?geo=US
+10. Regression Data Sources. Retrieved from: https://coinmarketcap.com/currencies/bitcoin/historical-data/?start=20170630&end=20171231
+
+
+
