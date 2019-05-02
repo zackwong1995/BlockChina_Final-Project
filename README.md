@@ -7,12 +7,12 @@ The Economics Nobel Prize winner Daniel Kahneman said, "Most investors are not s
 <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/2013_2016.jpg" width = 100% height = 100% alt="Figure 1" /> </div>
 <div align="center"> <font color=black size=2>Figure 1, 2013-2016 Bitcoin Price Trend</font> <div/>
-<div align="center"> <font color=black size=2>Sources: Trading View</font> <div/>
+<div align="center"> <font color=black size=2>Source: Trading View</font> <div/>
 <br/>
  <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/2017.jpg" width = 100% height = 100% alt="Figure 2" /> </div>
 <div align="center"> <font color=black size=2>Figure 2, 2017 Bitcoin Price Trend</font> <div/>
-<div align="center"> <font color=black size=2>Sources: Trading View</font> <div/>
+<div align="center"> <font color=black size=2>Source: Trading View</font> <div/>
 <br/>
 <div align="left">
 Figure 1 shows the significant fluctuations of Bitcoin began in 2013, from the initial $13.36/Bitcoin in January 2013 to the higher of $1,124/Bitcoin on November 29, 2013. Then, due to the public announcement issued by the five Ministries and Commissions of the People's Bank of China on December 5, 2013, state that Bitcoin "does not have monetary attributes such as legal and mandatory, and is not a real currency", "all financial and payment institution must not carry out the business related to Bitcoin", "strengthen the management of the Bitcoin network" ("Notice on preventing Bitcoin risk", Yinfa [2013] No. 289), and triggered a ferocious sell-off. On December 16 of the same year, China's central bank gathered more than a dozen third-party payment platforms, require them not to make any form of clearing and payment services for Bitcoin. The market has doubts and panic about the value and credibility of Bitcoin. As a result, another sell-off reappeared, causing prices to fall sharply to around $530/Bitcoin at the end of 2013. Until mid-2016, Bitcoin prices continued to fluctuate around US$700/Bitcoin.
@@ -28,18 +28,16 @@ The timing of Bitcoin emergence was very subtle. From 2008, many country's econo
  <div align="center"> 
  <img src="https://github.com/zackwong1995/zack/blob/master/ZWD_per_USdollar.png" width = 75% height = 75% alt="Figure 3" />
  
- <font color=black size=1>Figure 3, 2003-2009, Exchange rate of Zimbabwe dollar to US dollar</font>
- 
- <font color=black size=1>Source: Wikipedia </font>
+<font color=black size=1>Figure 3, 2003-2009, Exchange rate of Zimbabwe dollar to US dollar</font>
+<font color=black size=1>Source: Wikipedia </font>
 
 <div/>
  <br/>
  <div align="center"> 
  <img src="https://github.com/zackwong1995/zack/blob/master/goldprices.png" width = 75% height = 75% alt="Figure 4" />
 
-<font color=black size=0.5>Figure 4, 2008-2018, Gold Price in USD/oz</font> 
- 
- <font color=black size=0.5>Source: Trading View</font> 
+<font color=black size=1>Figure 4, 2008-2018, Gold Price in USD/oz</font> 
+<font color=black size=1>Source: Trading View</font> 
 <div/>
 <br/>
 <div align="left">
@@ -51,14 +49,12 @@ It can be seen that the Bitcoin was developed while the economy fell to the rece
  <div align="center"> 
 <img src="https://github.com/zackwong1995/zack/blob/master/volume1.png" width = 100% height = 100% alt="Figure 5" /> 
  
- <font color=black size=1>Figure 5, 2016-Oct, 2017, Bitcoin trading volume on each exchange</font>
- 
- <font color=black size=1>Source: Bitcoinity.org</font>
+<font color=black size=1>Figure 5, 2016-Oct, 2017, Bitcoin trading volume on each exchange</font>
+<font color=black size=1>Source: Bitcoinity.org</font>
 <br/>
 
 <img src="https://github.com/zackwong1995/zack/blob/master/volume2.png" width = 100% height = 100% alt="Figure 6" /> 
 <font color=black size=1>Figure 6, 2013-2017, Bitcoin Trading Volume in Different Currencies</font> 
-
 <font color=black size=1>Source: Bitcoinity.org</font>
 <div/>
 <br/>
